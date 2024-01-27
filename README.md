@@ -3,7 +3,7 @@
 <h2> CyberSecurity Projects:</h2>
 
 - <b> Azure Sentinel  (SIEM)</b>
- (https://github.com/Davidosorio55/Azure-Sentinel-SIEM-)
+-[Azure Sentinel Heap Map Creation] (https://github.com/Davidosorio55/Azure-Sentinel-SIEM-)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
