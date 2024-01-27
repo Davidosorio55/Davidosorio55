@@ -2,9 +2,12 @@
 
 <h2> CyberSecurity Projects:</h2>
 
-- <b> Azure Sentinel  (SIEM)</b>
+- <b> [Azure Sentinel](https://github.com/Davidosorio55/Azure-Sentinel-SIEM-)
 
- (https://github.com/Davidosorio55/Azure-Sentinel-SIEM-)
+
+
+ <h2> ✔️ Certifications:</h2>
+- <b> [Google Cyber Security] <h2>
 
 <h2> 🤳 Connect with me:</h2>
 
